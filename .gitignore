@@ -1,3 +1,4 @@
 /pg-data
 /pgadmin-data
 .env
+.DS_Store
